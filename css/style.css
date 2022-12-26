@@ -5,19 +5,22 @@
 
 header {
     background-color: #6bd9ff;
-    padding: 0px;
-    margin : 0px;
+    width: 100%;
+    padding: 15px 0px;
+    margin : 0px auto;
     font-family: "Avenir Next";
+    text-align: center;
+    color: black;
 }
 .header-title {
-    color : black;
-    font-size: 60px;
-    padding: 10px;
+    font-size: 32px;
 }
 
 .header-list {
-    float: right;
-    font-size: 20px:
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 0;
+    margin: 0 auto;
 }
 
 main {
