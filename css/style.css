@@ -1,5 +1,9 @@
+.header {
+    background-color: #6bd9ff;
+}
 .header-title {
     color : black;
+    font-size: 60px;
 }
 
 body {
