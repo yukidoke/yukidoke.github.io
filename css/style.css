@@ -11,6 +11,8 @@ header {
 .header-title {
     color : black;
     font-size: 60px;
+    padding: 10px;
+    background-color: red;
 }
 
 main {
