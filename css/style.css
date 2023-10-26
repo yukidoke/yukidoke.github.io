@@ -13,6 +13,7 @@ header {
 }
 .header-title {
     font-size: 32px;
+    color: #6bd9ff;
     float: left;
 }
 
@@ -25,5 +26,5 @@ header {
 }
 
 main {
-    background-color:  white;
+    background-color: #2b2a33;
 }
