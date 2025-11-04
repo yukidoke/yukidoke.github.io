@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yukidoke.github.io/sitemap.xml
