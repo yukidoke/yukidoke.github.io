@@ -9,6 +9,7 @@ displayName = "JA"
 isoCode = "ja"
 rtl = false
 dateFormat = "2006-01-02"
+logo = "img/logo.png"
 
 ["params.author"]
 name = "yukidoke"

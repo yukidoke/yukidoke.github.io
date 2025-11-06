@@ -16,6 +16,8 @@ buildFuture = false
 
 enableEmoji = true
 
+hasCJKLanguage = true
+
 # googleAnalytics = "G-C2XMDTKEB1"
 
 [pagination]
